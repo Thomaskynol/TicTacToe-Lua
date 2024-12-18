@@ -13,22 +13,3 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Lua. Two play
 3. Run the script in your terminal:
    ```bash
    lua tic_tac_toe.lua
-
-
-##Example Gameplay
-
- |   |  
----------
- |   |  
----------
- |   |  
-
-Player X's turn.
-Enter row and column (1-3):
-> 1 1
-
-X |   |  
----------
- |   |  
----------
- |   |  
